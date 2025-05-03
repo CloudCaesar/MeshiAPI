@@ -1,6 +1,6 @@
 # Meshi Text-to-3D Salesforce Integration
 
-This project provides a Salesforce backend integration for generating 3D models using the Meshy API. It includes Apex classes and a Lightning Web Component (LWC) to manage user data and interact with the Meshy API for text-to-3D model conversion. The solution creates a Lead, calls the Meshy API to generate a 3D model, and polls the task status to update the record.
+This project provides a Salesforce backend integration for generating 3D models using the Meshy API. It includes Apex classes and a Lightning Web Component (LWC) to manage user data and interact with the Meshy API for text-to-3D model conversion. 
 
 ## Features
 
