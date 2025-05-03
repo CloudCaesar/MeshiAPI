@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <!-- Custom Metadata Types -->
+    <types>
+        <members>MeshySettings__mdt</members>
+        <name>CustomMetadata</name>
+    </types>
+
+    <!-- Apex Classes -->
+    <types>
+        <members>MeshyTaskWrapper</members>
+        <members>MeshyTextTo3DController</members>
+        <members>MeshiTaskController</members>
+        <members>MeshiTaskStatusCheck</members>
+        <name>ApexClass</name>
+    </types>
+
+    <!-- Lightning Web Components -->
+    <types>
+        <members>meshyImageTo3D</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <!-- Connected App -->
+    <types>
+        <members>MeshiConnectedApp</members>
+        <name>ConnectedApp</name>
+    </types>
+
+    <!-- Named Credentials -->
+    <types>
+        <members>Meshy_API</members>
+        <name>NamedCredential</name>
+    </types>
+
+    <!-- API Version -->
+    <version>58.0</version>
+</Package>
