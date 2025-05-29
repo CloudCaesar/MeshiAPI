@@ -23,5 +23,5 @@ This project provides a Salesforce backend integration for generating 3D models 
 ### 1. Clone the Salesforce Project
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/CloudCaesar/MeshiAPI.git
+cd MeshiAPI
